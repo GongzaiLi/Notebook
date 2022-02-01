@@ -1,0 +1,6 @@
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.AssemblyReference.cache
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/ligongzai/Documents/Note/Notebook/C#/c#-Basic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
